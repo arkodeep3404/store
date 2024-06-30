@@ -1,6 +1,7 @@
-# startup
+# startups
 - https://map.sistilli.dev/public/Intro
 - https://www.theoryofnext.com/
+- https://www.youtube.com/@startuparchive_/videos
 
 # yc
 - https://docs.google.com/spreadsheets/u/0/d/1y6NlzD1ITKfNUW21M7UIc4t2GgmfS8sRu9X-G9ZO2IQ/htmlview
