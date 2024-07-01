@@ -10,6 +10,7 @@
 - https://www.boringbusinessnerd.com/post/how-to-get-into-y-combinator-with-jake-stein
 - https://www.ycombinator.com/rfs
 - https://www.boringbusinessnerd.com/post/y-combinator-vs-techstars-with-brandon-stokes
+- https://www.usecaribou.com/post/how-we-got-into-y-combinator
 
 # dev
 - https://resend.com/handbook
