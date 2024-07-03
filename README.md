@@ -17,6 +17,7 @@
 # dev
 - https://resend.com/handbook
 - https://motherfuckingwebsite.com/
+- https://components.bridger.to/
 
 # girls
 - https://www.boomplay.com/artists/66995054?from=
