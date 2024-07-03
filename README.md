@@ -11,6 +11,8 @@
 - https://www.ycombinator.com/rfs
 - https://www.boringbusinessnerd.com/post/y-combinator-vs-techstars-with-brandon-stokes
 - https://www.usecaribou.com/post/how-we-got-into-y-combinator
+- https://youtu.be/Th8JoIan4dg?si=iCFulSMPLp3yEcW5
+- https://youtu.be/B5tU2447OK8?si=769MNCO-0PZ5fw0C
 
 # dev
 - https://resend.com/handbook
