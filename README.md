@@ -13,6 +13,7 @@
 - https://www.usecaribou.com/post/how-we-got-into-y-combinator
 - https://youtu.be/Th8JoIan4dg?si=iCFulSMPLp3yEcW5
 - https://youtu.be/B5tU2447OK8?si=769MNCO-0PZ5fw0C
+- https://www.reddit.com/r/ycombinator/
 
 # dev
 - https://resend.com/handbook
