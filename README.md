@@ -3,6 +3,7 @@
 - https://www.theoryofnext.com/
 - https://www.youtube.com/@startuparchive_/videos
 - https://www.ycdb.co/
+- https://indiepa.ge/discover
 
 # yc
 - https://docs.google.com/spreadsheets/u/0/d/1y6NlzD1ITKfNUW21M7UIc4t2GgmfS8sRu9X-G9ZO2IQ/htmlview
@@ -15,6 +16,8 @@
 - https://youtu.be/Th8JoIan4dg?si=iCFulSMPLp3yEcW5
 - https://youtu.be/B5tU2447OK8?si=769MNCO-0PZ5fw0C
 - https://www.reddit.com/r/ycombinator/
+- https://youtu.be/hyYCn_kAngI?si=HavT0IwMN8JXUtrS
+- https://youtu.be/z1iF1c8w5Lg?si=A4PHLvePWIY4pg4i
 
 # dev
 - https://resend.com/handbook
