@@ -20,6 +20,7 @@
 - https://youtu.be/hyYCn_kAngI?si=HavT0IwMN8JXUtrS
 - https://youtu.be/z1iF1c8w5Lg?si=A4PHLvePWIY4pg4i
 - https://youtu.be/ZA_WqDO47-E?si=u8SwG6wfkwOntgF9
+- https://youtu.be/4hjiRmgmHiU?si=Ba8uXcigDjVpTI2L
 
 # dev
 - https://resend.com/handbook
