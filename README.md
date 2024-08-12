@@ -5,6 +5,7 @@
 - https://www.ycdb.co/
 - https://indiepa.ge/discover
 - https://www.500tips.com
+- https://growthlist.co/united-states-startups/
 
 # yc
 - https://docs.google.com/spreadsheets/u/0/d/1y6NlzD1ITKfNUW21M7UIc4t2GgmfS8sRu9X-G9ZO2IQ/htmlview
