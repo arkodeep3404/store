@@ -29,6 +29,7 @@
 - https://components.bridger.to/
 - https://sonner.emilkowal.ski/
 - https://www.reddit.com/r/nextjs/
+- https://docs.nlkit.com/nlux
 
 # girls
 - https://www.boomplay.com/artists/66995054?from=
