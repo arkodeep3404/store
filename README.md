@@ -43,3 +43,6 @@
 
 # orom 
 - https://poopup.co/js/script.js
+
+# delay
+- await new Promise((resolve) => setTimeout(resolve, 5000))
