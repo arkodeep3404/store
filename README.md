@@ -32,6 +32,7 @@
 - https://sonner.emilkowal.ski/
 - https://www.reddit.com/r/nextjs/
 - https://docs.nlkit.com/nlux
+- https://www.easyui.pro/
 
 # girls
 - https://www.boomplay.com/artists/66995054?from=
