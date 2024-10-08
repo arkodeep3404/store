@@ -49,3 +49,7 @@
 
 # delay
 - await new Promise((resolve) => setTimeout(resolve, 5000))
+
+# credits
+- https://www.founderpass.com/join
+- https://ramp.com/perks
