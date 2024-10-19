@@ -47,8 +47,9 @@
 # orom 
 - https://poopup.co/js/script.js
 
-# delay
+# code
 - await new Promise((resolve) => setTimeout(resolve, 5000))
+- "rules": { "@typescript-eslint/no-explicit-any": "off" }
 
 # credits
 - https://www.founderpass.com/join
