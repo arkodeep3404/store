@@ -54,3 +54,6 @@
 # credits
 - https://www.founderpass.com/join
 - https://ramp.com/perks
+
+# self host
+- https://www.opensourcealternative.to/
