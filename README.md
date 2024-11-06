@@ -24,6 +24,7 @@
 - https://youtu.be/4hjiRmgmHiU?si=Ba8uXcigDjVpTI2L
 - https://jamescun.github.io/iPG/
 - https://getintoyc.com/
+- https://getfluently.notion.site/Y-Combinator-Application-Guide-1286a9ce04d98004b4dac50cf66fb883
 
 # dev
 - https://resend.com/handbook
