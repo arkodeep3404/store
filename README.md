@@ -52,6 +52,7 @@
 # code
 - await new Promise((resolve) => setTimeout(resolve, 5000))
 - "rules": { "@typescript-eslint/no-explicit-any": "off" }
+- h-[calc(100vh-5rem)]
 
 # credits
 - https://www.founderpass.com/join
